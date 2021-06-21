@@ -1,1 +1,2 @@
-# Gac-Technology
+Probleme d'import de la totalité du fichier. Je l'ai donc coupé en deux.
+L'import des dates m'a posé des problèmes donc j'ai trouvé comme solution afin de finaliser le projet d'utilisé le type Varchar en base puis convertit en Date dans la requete SQL.
